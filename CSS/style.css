@@ -529,6 +529,7 @@ footer {
     .trainer-card {
     width: 20%;
     margin: 5px;
+    min-widht: 250px;
 }
 
     .footer-container {
@@ -537,3 +538,4 @@ footer {
 }
 
 }
+
